@@ -189,7 +189,6 @@ int main() {
   int (&b)[10] = a;
   b[0] = 1;
   std::cout << a[0] << '\n';
-  
   return 0;
 }
 
