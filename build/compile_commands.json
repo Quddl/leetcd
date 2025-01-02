@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/rafael/Documents/vscode_cmake/2/build",
+  "command": "/usr/bin/clang++    -fsanitize=address -fsanitize=undefined -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/rafael/Documents/vscode_cmake/2/main.cpp",
+  "file": "/Users/rafael/Documents/vscode_cmake/2/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

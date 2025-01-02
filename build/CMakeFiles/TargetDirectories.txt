@@ -1,0 +1,3 @@
+/Users/rafael/Documents/vscode_cmake/2/build/CMakeFiles/main.dir
+/Users/rafael/Documents/vscode_cmake/2/build/CMakeFiles/edit_cache.dir
+/Users/rafael/Documents/vscode_cmake/2/build/CMakeFiles/rebuild_cache.dir
